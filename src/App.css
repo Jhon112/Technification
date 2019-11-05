@@ -1,3 +1,17 @@
-div.container-fluid {
+html {
+    height: 100%;
+}
+body {
+    min-height: 100%;
+}
+
+div.App {
     padding-left: 0;
+    padding-right: 0;
+}
+div .layout {
+    margin-right: 0;
+}
+div .navbar {
+    margin-bottom: 0;
 }
