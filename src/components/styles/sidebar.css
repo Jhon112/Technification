@@ -1,10 +1,11 @@
 .categories-container {
     display: flex;
     flex-direction: column;
-    height: 100vh;
     background-color: rgb(55, 55, 55);
+    height:100vh;
 }
 
 .categories-container h2 {
     color: antiquewhite;
+    align-self: center;
 }
